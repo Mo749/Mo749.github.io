@@ -6,8 +6,7 @@ permalink: /about/
 
 Some information about you!
 
-Alex is a loser
-
+How are you doin ?
 When you Got nothing You got nothing to lose
 
 ### Contact me

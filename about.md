@@ -6,7 +6,7 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+Alex is a loser
 
 When you Got nothing You got nothing to lose
 
